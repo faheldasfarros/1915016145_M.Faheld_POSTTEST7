@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513535747360",
+    "project_id": "postest7-1915016145",
+    "storage_bucket": "postest7-1915016145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513535747360:android:70449b6a8e72e997fba345",
+        "android_client_info": {
+          "package_name": "com.example.postest6_1915016145_m_faheld_as_farros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513535747360-8r6udb8nk4793rles6sn8rsl1sibo5qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIS18gD0mOON0IETQpXEzRpZUSRCYHLnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513535747360-8r6udb8nk4793rles6sn8rsl1sibo5qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
